@@ -74,6 +74,17 @@
 }
 
 
+@media (min-width: 1700px) {
+    .item-third{
+        z-index: 100;
+        margin-top: 90%;
+        display: flex;
+        justify-content: center;
+        margin-left: 10%;
+    }
+    
+}
+
 @media (max-width: 1100px){
     .item-text{
         margin-top: 10%;
